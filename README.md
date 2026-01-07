@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Figma
 - 🌱 I’m currently learning C
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with Java/C++
 - 📫 How to reach me: 8089075077
 - ⚡ Fun fact: 2+2=4
