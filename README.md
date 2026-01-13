@@ -24,4 +24,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=abhinavsj470&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamkarthik2004/iamkarthik2004/output/snake-dark.svg" alt="snake animation"/>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
