@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on C, CSS, Javascript<br>👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with Node.js<br>🌱 I’m currently learning C<br>💬 Ask me about Python<br>⚡ Fun fact : 2 x 2 = 4 
+🔭 I’m currently working on C, CSS, Javascript<br>👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with React<br>🌱 I’m currently learning C<br>💬 Ask me about Python<br>⚡ Fun fact : 2 x 2 = 4 
 
 
 ## 🌐 Socials:
